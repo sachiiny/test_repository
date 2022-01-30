@@ -5,3 +5,12 @@ git config --global user.email "sachin.yadav@somaiya.edu"
 
 
 touch commands_git.txt
+
+
+
+
+
+git status
+git init
+git add commands_git.txt             ,   git add.
+git commit -m "Initial Commits"
